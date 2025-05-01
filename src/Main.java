@@ -1,5 +1,5 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
+import javax.swing.*;
+
+public static void main(String[] args) {
+    SwingUtilities.invokeLater(PhoneBookSwingApp::new);
 }
