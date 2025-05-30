@@ -17,3 +17,8 @@ A simple **PhoneBook application** built using **Java Swing**. This application 
 
    ```bash
    git clone https://github.com/yourusername/phonebook-swing-app.git
+   ```
+   
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
